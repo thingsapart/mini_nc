@@ -4,6 +4,8 @@ The V0 of CNC machines - small envelope with 200x150x70mm (8x6x2.75") work area,
 # MiniNC - What is it?
 A true small _Desktop CNC_ machine that can be used inside an apartment in a pinch but can still cut softer metals. One that does not require a full shop due to space, mess and noise and does not break the bank.
 
+![MiniNC enclosed](/docs/MiniNC_enclosed.jpg)
+
 ## ALPHA
 The machine is past the main design phase and a prototype has been built and is about to get tested. But that does not mean everything is finalized.
 
@@ -52,6 +54,24 @@ This design was influenced by the [Milk Cr8](https://www.milkcr8cnc.com) ([GH](h
 * Makers and 3D printer enthusiasts but really anyone without a full (metal-working) shop and/or space for a larger machine.
 * Anyone without the space for one of the larger machines.
 
+## Stiffness
+
+The current wooden frame seems decently stiff at roughly 1N/&micro;m in Y at the spindle collet even with 3D printed X/Y plates - needs more testing though but seems like a good start.
+
+Some general numbers I've found for comparison:
+* [Siecni 12x30 Longmill MK2 ~ 0.07M/&micro;m X and 0.05N/&micro;m Y](https://sienci.com/wp-content/uploads/2022/09/Stiffness-Rating-with-Commentary.pdf),
+* [MPCNC ~ 0.1-0.2N/&micro;m](https://forum.v1e.com/t/deflection-measurement/37968/34),
+* [burly but _large_ CNC build ~ 1-3N/&micro;m](https://www.mycncuk.com/threads/7155-stiffness-measurements-cnc-mk3),
+* I've seen 20N/&micro;m recommended for cutting alu very well,
+* Milling Machines supposedly ~ 20-30N/&micro;m,
+* professional cast-iron or epoxy granite VMCs are on the other 70-150N/&micro;m.
+* (LET ME KNOW IF YOU HAVE OTHER/MORE DATA OR CORRECTIONS, I'D LOVE TO ADD IT)
+  
+NB: [Load cell tool design to apply a measured/specific force to the spindle](https://www.printables.com/model/473947-xy-forcing-mechanism-for-cnc-router-diagnostics)
+
+Rough design for phase-2 buildout using a lasercut steel structure to increase stiffness if needed. 
+![Steel structure under enclosure panels](/docs/MiniNC_steel.jpg)
+
 ## Use-Cases
 * Small aluminium parts:
    * high-speed 3D printer motion system reinforcements and brackets,
@@ -59,7 +79,7 @@ This design was influenced by the [Milk Cr8](https://www.milkcr8cnc.com) ([GH](h
    * toolhead components.
 * Makers:
    * Tools, …
-     
+
 ## Optional Features/TODOs
 * low-profile modular vise system,
 * internal camera,
