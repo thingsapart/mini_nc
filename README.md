@@ -4,6 +4,9 @@ The V0 of CNC machines - small envelope with 200x150x70mm (8x6x2.75") work area,
 # MiniNC - What is it?
 A true small _Desktop CNC_ machine that can be used inside an apartment in a pinch but can still cut softer metals. One that does not require a full shop due to space, mess and noise and does not break the bank.
 
+## ALPHA
+The machine is past the main design phase and a prototype has been built and is about to get tested. But that does not mean everything is finalized.
+
 ## Requirements
 * Cuts aluminium well.
 * Cost-efficient.
