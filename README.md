@@ -67,7 +67,8 @@ Some general numbers I've found for comparison:
 * professional cast-iron or epoxy granite VMCs are on the other 70-150N/&micro;m.
 * (LET ME KNOW IF YOU HAVE OTHER/MORE DATA OR CORRECTIONS, I'D LOVE TO ADD IT)
   
-NB: [Load cell tool design to apply a measured/specific force to the spindle](https://www.printables.com/model/473947-xy-forcing-mechanism-for-cnc-router-diagnostics)
+NB: [Load cell tool design to apply a measured/specific force to the spindle](https://www.printables.com/model/473947-xy-forcing-mechanism-for-cnc-router-diagnostics).
+NB: [Some numbers and suggested values for stiffness](https://www.cnczone.com/forums/uncategorised-metalworking-machines/378098-cnc-2.html?s=0ac995351d1eec0bfeb15a12f1eecd70) - 25kgf ~> <0.1mm deflection seems like a decent goal (2.5N/&micro;m).
 
 Rough design for phase-2 buildout using a lasercut steel structure to increase stiffness if needed. 
 ![Steel structure under enclosure panels](/docs/MiniNC_steel.jpg)
