@@ -11,6 +11,9 @@ A true small _Desktop CNC_ machine that can be used inside an apartment in a pin
 * As quiet as possible.
 * Not too messy.
 
+## Inspiration/Credits
+This design was influenced by the [Milk Cr8](https://www.milkcr8cnc.com) ([GH](https://github.com/Makers-On-Tap/milkcr8-cnc)) CNC's use of plywood as a stiff box structure to enclose and stiffen the machine at the same time. The idea was to use the wooden structure and combine it with aluminium extrusions to simplify the build while retaining some superior dampening over just an alu extrusion structure.
+
 ## Features
 * Cuts aluminium well =>
    * Rigid (enough) => smaller size, slower feeds, single flute, smaller end mills,
