@@ -1,0 +1,62 @@
+Mechanical				121.04	474.53	464.53	167.53					
+	Rails	126										
+		MGN12H 300mm	4		50	50			https://www.ebay.com/itm/325924971185			
+		MGN12H Carriages	4		50	50			https://www.ebay.com/itm/324798764209			https://www.ebay.com/itm/324798763415
+		MGN9H 150mm + 4 Carr	2		26	26			https://www.ebay.com/itm/324829197488			
+												
+												
+	Lead Screws	22.5										
+		200mm TR8x2	2	15					https://www.amazon.com/XIAOSHI-Printer-Trapezoidal-Coupling-Bearing/dp/B0B2ZP5FD1			
+		100mm TR8x2	1	7.5					https://www.amazon.com/ReliaBot-100mm-Thread-Printer-Machine/dp/B092YV88MB			
+		SFU1204 Ballscrew 300mm	2	40	40	40			https://www.amazon.com/gp/product/B0CP21P5HP			
+		100mm T8 + rigid coupler	1	8	10	5						
+												
+	Nuts	10										
+		OpenBuilds anti-backlash nut	1		10	5	10		https://www.amazon.com/GLEAVI-Accessories-Anti-Backlash-Ballcock-Printers/dp/B0CSBCDJLN			
+												
+	Extrusions	20										
+		2040 300mm	4		20	20	20		https://www.amazon.com/BELLA-BAYS-Extrusion-20mmx40mm-Engraving/dp/B0B7HLWZNH			
+		2040 250mm	2		8.99	8.99	8.99		https://www.amazon.com/BELLA-BAYS-Extrusion-Engraving-Workbench/dp/B0BM8HSLX7/			
+		25x25x2mm Alu Square Tube	1		12	12			https://www.amazon.com/dp/B07ZVNN28B			
+												
+	Couplers	8.54										
+		8mm to 5mm Couplers	2	8.54	8.54	8.54	8.54		https://www.amazon.com/Zeberoxyz-Coupling-Aluminum-Diameter-Connector/dp/B08ZJ854Z6/			
+Electronics									https://www.amazon.com/Aluminium-Flexible-Coupling-Diameter-Connector/dp/B08JZ1D5BY			
+	Control	55										
+		FLY E3 Pro V3 / SKR2 / FLY CDY V3 / RRF something	1		30	30			https://www.aliexpress.us/item/3256802186437082.html			
+		PSU MW LRS-350-24	1		25	25				Back-Mounted		
+		PSU MW UHP-350-24	1					75		Under-Mounted		
+		Alt: NDR-480-48 + 24V-stepdown	1					49	https://www.ebay.com/itm/176235897041			
+		Alt: 2x cheap 150W+ LED PSU						20	Aliexpress			
+	Motors	87										
+		OMC 48mm	1	42					https://www.amazon.com/STEPPERONLINE-Stepper-Bipolar-Connector-compatible/dp/B00PNEQKC0			
+		T8 Lead Screw Stepper 200mm/240mm	2				58	58	https://www.amazon.com/Iverntech-NEMA-17-Stepper-Motor/dp/B07LF2GGJ4?th=1		https://www.amazon.com/FYSETC-Replacement-leadscrew-9-44inch-Compatible/dp/B0B63FGNJX/	
+		T8 Lead Screw Stepper 150mm	1				29	29	https://www.amazon.com/Iverntech-NEMA-17-Stepper-Motor/dp/B07LF2GGJ4?th=1			
+		Nema17 48mm Steppers (ideally 2A)	2		33	33			https://www.amazon.com/Stepper-Motor-59Ncm-4-wire-Printer/dp/B00Y2HJE22/			
+		Nema17 39/40mm Stepper (ideally 2A)	1		0	0			https://www.amazon.com/Stepper-Motor-Bipolar-64oz-Printer/dp/B00PNEQI7W/			
+												
+	Spindle	50						68				
+		Alt: 300W Brushless (with mount?)	1					90	https://www.aliexpress.us/item/3256804988257371.html			
+												
+Filament		Genmitsu 60W Spindle + NDR-120-24 + DualFOC ESP32 ~> 150W						50	https://www.aliexpress.us/item/1005005935486903.html	https://www.ebay.com/itm/375131593389		
+		104W BLDC Spindle + controller	1		73	73			https://www.amazon.com/dp/B08CMHPJ3S			
+Fasteners + Bearings												
+		Various M3 + T-Nut + Drop-in T-Nuts	1									
+		Various M5										
+		M6x1 30mm Flat Head Hex	45		10	10			https://www.amazon.com/gp/product/B0CK2H57YV/			
+		M6 Cross Dowel / Barrel Nuts	38		10	10			https://www.amazon.com/gp/product/B07CKYH8WR/			
+												
+Plywood		1/2" Baltic Birch 30"x30"	1		33	33	33					
+												
+Acrylic												
+												
+Bed												
+		8x12" 1/4" 6061 plate	1					18				
+		8x6" 3/8" Cast Tooling Plate	1		25	25						
+												
+												
+												
+												
+												
+									3x300mm steppers CR8R			
+									https://www.aliexpress.us/item/1005003155124982.html			
