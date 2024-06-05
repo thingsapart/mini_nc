@@ -6,6 +6,8 @@ A true small _Desktop CNC_ machine that can be used inside an apartment in a pin
 
 ![MiniNC enclosed](/docs/MiniNC_enclosed.jpg)
 
+![Size compare to Voron V0.1](/docs/size_vs_v0.jpg)
+
 ## ALPHA
 The machine is past the main design phase and a prototype has been built and is about to get tested. But that does not mean everything is finalized.
 
