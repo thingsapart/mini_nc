@@ -8,7 +8,10 @@ A true small _Desktop CNC_ machine that can be used inside an apartment in a pin
 
 ![Size compare to Voron V0.1](/docs/size_vs_v0.jpg)
 
-## ALPHA
+## WARNINGS
+### Danger
+CNC machines are a lot more dangerous than 3D printers. BUILD AT YOUR OWN RISK. DO NOT OPERATE "OPEN" OR WITHOUT POLYCARBONATE WINDOWS. TURN OFF THE MACHINE WHEN CHANGING END MILLS OR CHANGING WORK PIECES - DO NOT LEAVE IT POWERED ON WHILE HANDS ARE INSIDE THE ENCLOSURE.
+### Alpha
 The machine is past the main design phase and a prototype has been built and is about to get tested. But that does not mean everything is finalized.
 
 ## Some Results
