@@ -11,6 +11,23 @@ A true small _Desktop CNC_ machine that can be used inside an apartment in a pin
 ## ALPHA
 The machine is past the main design phase and a prototype has been built and is about to get tested. But that does not mean everything is finalized.
 
+## Some Results
+
+35x15mm test cut on the first prototype machine (untrammed, excuse the bottom finish):
+<table style="border: 1px white; border-collapse: collapse;">
+  <tr>
+    <td rowspan=2>
+      <img alt="Alumin*i*um 6061 cut" src="https://github.com/thingsapart/mini_nc/raw/main/docs/images/6061_1.jpg" />
+    </td>
+    <td>
+      <img alt="Alumin*i*um 6061 cut" src="https://github.com/thingsapart/mini_nc/raw/main/docs/images/6061_2.jpg" height="50%"/>
+    </td>
+  </tr>
+  <tr>
+    <td><img alt="Alumin*i*um 6061 cut" src="https://github.com/thingsapart/mini_nc/raw/main/docs/images/6061_3.jpg" height="50%"/></td>
+  </tr>
+</table>
+
 ## Requirements
 * Cuts aluminium well.
 * Cost-efficient.
