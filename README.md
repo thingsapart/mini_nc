@@ -95,6 +95,32 @@ NB: [Some numbers and suggested values for stiffness](https://www.cnczone.com/fo
 Rough design for phase-2 buildout using a lasercut steel structure to increase stiffness if needed. 
 ![Steel structure under enclosure panels](/docs/MiniNC_steel.jpg)
 
+## Chip Vac / Dust Extraction
+
+Finished a small prototype chip-vacuum based on a Roborock/Xiaomi/MiJia vacuum fan and [Roborock-CPAP PCB](https://github.com/condottab/Roborock-CPAP). Additional cost is only ~$15 for the 2kPa fan versions or ~$30 for the (untested) 4-5kPa version.
+
+Seems to work well on first attempts with 6061 aliminium, will need filtation for actual dust extraction otherwise the dust gets sucked into fan and spat out the other side.
+
+Supports different "duct attachments" held in place via magnets, which makes it easy to
+* remove when changing end mills or cleaning parts of the machine,
+* changing the type of attachment (there's currently an open and a closed version with a "curtain", one for better suction, one for better visibility).
+
+<table style="border: 1px white; border-collapse: collapse;">
+  <tr>
+    <td>
+      <img alt="Alumin*i*um 6061 cut" src="https://github.com/thingsapart/mini_nc/raw/main/docs/images/chip_vac.jpg" height="50%"/>
+    </td>
+    <td>
+      <img alt="Alumin*i*um 6061 cut" src="https://github.com/thingsapart/mini_nc/raw/main/docs/images/chip_vac2.jpg" height="50%"/>
+    </td>
+  </tr>
+  <tr>
+    <td><img alt="Alumin*i*um 6061 cut" src="https://github.com/thingsapart/mini_nc/raw/main/docs/images/chip_vac_open.jpg" height="50%"/></td>
+    <td><img alt="Alumin*i*um 6061 cut" src="https://github.com/thingsapart/mini_nc/raw/main/docs/images/chip_vac_closed.jpg" height="50%"/></td>
+  </tr>
+</table>
+
+
 ## Use-Cases
 * Small aluminium parts:
    * high-speed 3D printer motion system reinforcements and brackets,
