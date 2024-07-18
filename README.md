@@ -130,8 +130,19 @@ Supports different "duct attachments" held in place via magnets, which makes it 
    * Tools, …
 
 ## Optional Features/TODOs
-* low-profile modular vise system,
+* 🏗 low-profile modular vise system (untested design in V0.2),
 * internal camera,
 * laser Module Support,
-* internal LED lighting + toolhead lighting,
+* 🏗 internal LED lighting + toolhead lighting (basic design with room for improvement in V0.2),
 * 4th axis?
+
+## Releases
+* V0.1 - Initial Release.
+* V0.2 - 07/2024
+  * Many, many minor improvements after alpha-testing prototype,
+  * roboroc-based chip-vac,
+  * interla left/right side LEDs,
+  * electronics mounts,
+  * support for 300W BLDC spindle (36-48V),
+  * prototype of MGN9-jaw-based low profile vise,
+  * prototype toolsetter (through-bed with fixed switch mounted to bottom panel.
