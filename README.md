@@ -81,7 +81,7 @@ This design was influenced by the [Milk Cr8](https://www.milkcr8cnc.com) ([GH](h
 The current wooden frame seems decently stiff at roughly 1N/&micro;m in Y at the spindle collet even with 3D printed X/Y plates - needs more testing though but seems like a good start.
 
 Some general numbers I've found for comparison:
-* [Siecni 12x30 Longmill MK2 ~ 0.07M/&micro;m X and 0.05N/&micro;m Y](https://sienci.com/wp-content/uploads/2022/09/Stiffness-Rating-with-Commentary.pdf),
+* [Siecni 12x30 Longmill MK2 ~ 0.07N/&micro;m X and 0.05N/&micro;m Y](https://sienci.com/wp-content/uploads/2022/09/Stiffness-Rating-with-Commentary.pdf),
 * [MPCNC ~ 0.1-0.2N/&micro;m](https://forum.v1e.com/t/deflection-measurement/37968/34),
 * [burly but _large_ CNC build ~ 1-3N/&micro;m](https://www.mycncuk.com/threads/7155-stiffness-measurements-cnc-mk3),
 * I've seen 20N/&micro;m recommended for cutting alu very well,
@@ -99,7 +99,7 @@ Rough design for phase-2 buildout using a lasercut steel structure to increase s
 
 Finished a small prototype chip-vacuum based on a Roborock/Xiaomi/MiJia vacuum fan and [Roborock-CPAP PCB](https://github.com/condottab/Roborock-CPAP). Additional cost is only ~$15 for the 2kPa fan versions or ~$30 for the (untested) 4-5kPa version.
 
-Seems to work well on first attempts with 6061 aliminium, will need filtation for actual dust extraction otherwise the dust gets sucked into fan and spat out the other side.
+Seems to work well on first attempts with 6061 aliminium, will need filtration for actual dust extraction otherwise the dust gets sucked into fan and spat out the other side.
 
 Supports different "duct attachments" held in place via magnets, which makes it easy to
 * remove when changing end mills or cleaning parts of the machine,
