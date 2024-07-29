@@ -16,7 +16,7 @@ The machine is past the main design phase and a prototype has been built and is 
 
 ## Some Results
 
-35x15mm test cut on the first prototype machine (untrammed, excuse the bottom finish):
+35x15mm test cut on the first prototype machine (untrammed, excuse the bottom finish) - with 3D-printed ABS X- and Z-plates:
 <table style="border: 1px white; border-collapse: collapse;">
   <tr>
     <td rowspan=2>
