@@ -1,6 +1,9 @@
 # MiniNC
 The V0 of CNC machines - small envelope with 200x150x70mm (8x6x2.75") work area, aims to cut alu well (enough).
 
+# Discussion
+There's a [small discord](https://discord.gg/6VSBqa9H) discussing this machine (and other) small CNCs.
+
 # MiniNC - What is it?
 A true small _Desktop CNC_ machine that can be used inside an apartment in a pinch but can still cut softer metals. One that does not require a full shop due to space, mess and noise and does not break the bank. [Current BOM cost is around $500](https://github.com/thingsapart/mini_nc/blob/main/docs/MiniNC%20BOM%20-%20BOM.tsv) with most parts ordered on Amazon, excluding the price to cut the plywood panels (that can add another $100-200 if not diy'd). We're still working on the noise part currently.
 
