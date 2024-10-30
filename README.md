@@ -7,6 +7,8 @@ There's a [small discord](https://discord.gg/6VSBqa9H) discussing this machine (
 # MiniNC - What is it?
 A true small _Desktop CNC_ machine that can be used inside an apartment in a pinch but can still cut softer metals. One that does not require a full shop due to space, mess and noise and does not break the bank. [Current BOM cost is around $500](https://github.com/thingsapart/mini_nc/blob/main/docs/MiniNC%20BOM%20-%20BOM.tsv) with most parts ordered on Amazon, excluding the price to cut the plywood panels (that can add another $100-200 if not diy'd). We're still working on the noise part currently.
 
+![Current status with 300W BLDC spindle, vise, chipvac V2, 3d-touch-probe support, ...](docs/images/mininc_v04.jpeg)
+
 ![MiniNC enclosed](/docs/MiniNC_enclosed.jpg)
 
 ![Size compare to Voron V0.1](/docs/size_vs_v0.jpg)
@@ -102,27 +104,19 @@ Rough design for phase-2 buildout using a lasercut steel structure to increase s
 
 Finished a small prototype chip-vacuum based on a Roborock/Xiaomi/MiJia vacuum fan and [Roborock-CPAP PCB](https://github.com/condottab/Roborock-CPAP). Additional cost is only ~$15 for the 2kPa fan versions or ~$30 for the (untested) 4-5kPa version.
 
-Seems to work well on first attempts with 6061 aliminium, will need filtration for actual dust extraction otherwise the dust gets sucked into fan and spat out the other side.
+V2 of the chip vac in a tubular form has been designed and tested, seems to work a tad better than V1 and less prone to clogging, easier to clean.
 
 Supports different "duct attachments" held in place via magnets, which makes it easy to
 * remove when changing end mills or cleaning parts of the machine,
 * changing the type of attachment (there's currently an open and a closed version with a "curtain", one for better suction, one for better visibility).
 
-<table style="border: 1px white; border-collapse: collapse;">
-  <tr>
-    <td>
-      <img alt="Alumin*i*um 6061 cut" src="https://github.com/thingsapart/mini_nc/raw/main/docs/images/chip_vac.jpg" height="50%"/>
-    </td>
-    <td>
-      <img alt="Alumin*i*um 6061 cut" src="https://github.com/thingsapart/mini_nc/raw/main/docs/images/chip_vac2.jpg" height="50%"/>
-    </td>
-  </tr>
-  <tr>
-    <td><img alt="Alumin*i*um 6061 cut" src="https://github.com/thingsapart/mini_nc/raw/main/docs/images/chip_vac_open.jpg" height="50%"/></td>
-    <td><img alt="Alumin*i*um 6061 cut" src="https://github.com/thingsapart/mini_nc/raw/main/docs/images/chip_vac_closed.jpg" height="50%"/></td>
-  </tr>
-</table>
+Current V2:
 
+![Chipvac V2](docs/images/chipvac_v2.jpeg)
+
+Original V1:
+
+<img alt="Alumin*i*um 6061 cut" src="https://github.com/thingsapart/mini_nc/raw/main/docs/images/chip_vac.jpg" 
 
 ## Use-Cases
 * Small aluminium parts:
@@ -149,3 +143,5 @@ Supports different "duct attachments" held in place via magnets, which makes it 
   * support for 300W BLDC spindle (36-48V),
   * prototype of MGN9-jaw-based low profile vise,
   * prototype toolsetter (through-bed with fixed switch mounted to bottom panel.
+ 
+[Onshape Document](https://cad.onshape.com/documents/c86121a300cc3efe8d19b16b/w/b3c26184b681d889100ca699/e/cecf7ca72a42132848999341)
