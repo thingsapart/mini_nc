@@ -116,7 +116,7 @@ Current V2:
 
 Original V1:
 
-<img alt="Alumin*i*um 6061 cut" src="https://github.com/thingsapart/mini_nc/raw/main/docs/images/chip_vac.jpg" 
+<img alt="Alumin*i*um 6061 cut" src="https://github.com/thingsapart/mini_nc/raw/main/docs/images/chip_vac2.jpg" />
 
 ## Use-Cases
 * Small aluminium parts:
